@@ -46,3 +46,10 @@ print ( a == b ) #ture if a is equal to b ( Ture )
 print( a == b and type(a) == type (b)) #ture if both value nd tyoe are ture
 
 #not equal
+
+
+
+
+a =10
+b =3425435
+print (a != b) 
